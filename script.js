@@ -73,7 +73,7 @@ for (house of hogwartsHouses){
 console.log('====================================');
 
 const quote = ["Yer", "A", "Wizard", "Harry"];
-output = "";
+let output = "";
 for (k of quote){
     output += (k + " ");
 }
